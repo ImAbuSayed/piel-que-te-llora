@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-que-te-llora/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Piel que te llora](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-que-te-llora/) |
+| **Get License** | [Request Licensing for Piel que te llora](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-que-te-llora/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `dc06de8c0974c0bd7dfe2a7a8f10c87c65b4220788029ded404c248c1ea18e4b` |
 | **Timestamp** | June 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

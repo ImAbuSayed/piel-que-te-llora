@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Piel que te llora
+
+This log tracks the cryptographic history and versioning for the song **Piel que te llora** (piel-que-te-llora).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T07:12:34.546217 | `v1` | `dc06de8c0974c0bd7dfe2a7a8f10c87c65b4220788029ded404c248c1ea18e4b` | `cd4736122731b93b88d9e4ed4d09a63a0267f64b65d11f5724dbd70d0e354097` | `2026-06-18_piel-que-te-llora-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
